@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Frames using row attribute</title>
+    </head>
+          
+    <frameset rows = "100%, 100%, 100%">
+   
+        <frame name = "top" src = 
+        "C:\Users\gargbrother\Pictures\Saved Pictures\nature.bmp">
+     
+        <frame name = "main" style="height=200px, width=200px" src = 
+        "C:\Users\gargbrother\Pictures\Saved Pictures\188270.jpg">
+	
+	  <frame name = "bottom" src = 
+        "C:\Users\gargbrother\Pictures\Saved Pictures\building1.jpg">
+    </frameset>
+
+</html>      
+
